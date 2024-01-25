@@ -12,7 +12,7 @@ We use a [Contributor License Agreement](CLA.md) to protect the rights of contri
 
 ## License
 
-This project is licensed under the [BSD-4 Clause](LICENSE.md).
+This project is licensed under the [BSD-4 Clause](LICENSE).
 
 ## Code of Conduct
 
