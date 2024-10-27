@@ -23,28 +23,16 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: os
-    attributes:
-      label: Operating System
-      description: What is the affected environment?
-      options:
-        - "Microsoft Windows"
-        - "Apple macOS"
-        - "Linux"
-    validations:
-      required: true
-  - type: dropdown
     id: browser
     attributes:
-      label: Browser
+      label: Browser (if relevant)
       description: On what browser did you see the problem?
       options:
         - "Chromium (Google Chrome, Microsoft Edge, Brave, Vivaldi, etc.)"
         - "Mozilla Firefox"
-        - "Opera (GX)"
         - "Apple Safari"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: reproduce
     attributes:
