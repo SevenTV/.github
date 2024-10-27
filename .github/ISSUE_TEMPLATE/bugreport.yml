@@ -2,6 +2,7 @@ name: Bug Report
 description: Found bugs? Share them here
 title: "A brief description of the bug"
 labels: ["bug"]
+projects: ["SevenTV/4"]
 body:
   - type: markdown
     attributes:

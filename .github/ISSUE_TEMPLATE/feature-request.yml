@@ -2,6 +2,7 @@ name: Feature Request
 description: Have an idea for an improvement to 7TV? Your ideas are always welcome here
 title: "A brief description of the feature request"
 labels: ["enhancement"]
+projects: ["SevenTV/4"]
 body:
   - type: markdown
     attributes:
